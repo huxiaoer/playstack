@@ -2,6 +2,7 @@ package main
 
 import (
 	"fmt"
+	"github.com/huxiaoer/playstack/api"
 	"github.com/huxiaoer/playstack/pkg"
 	
 	"github.com/NanXiao/stack"
@@ -15,4 +16,6 @@ func main() {
 	fmt.Println(s)
 
 	pkg.Test()
+	
+	api.Test()
 }

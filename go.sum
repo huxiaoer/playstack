@@ -2,3 +2,5 @@ github.com/NanXiao/queue v0.0.0-20160401053452-29cd80b506cb h1:Z1XP/ag3NcJ7NgTme
 github.com/NanXiao/queue v0.0.0-20160401053452-29cd80b506cb/go.mod h1:q5aXvlDqQoh1lpCB5YsFl2kq0BFKi2Q4Rj6yCpCiZ+M=
 github.com/NanXiao/stack v0.0.0-20160401052844-bfb214dbdb38 h1:Df+qlDLjvXZJK+9t14i+/e0UCWZogVkxg6we7oR0yc0=
 github.com/NanXiao/stack v0.0.0-20160401052844-bfb214dbdb38/go.mod h1:AkU/5k8c8qukptSXnUmK+zZuK7X7S7nXbHkjqkP8YBE=
+github.com/spf13/pflag v1.0.5 h1:iy+VFUOCP1a+8yFto/drg2CJ5u0yRoB7fZw3DKv/JXA=
+github.com/spf13/pflag v1.0.5/go.mod h1:McXfInJRrz4CZXVZOBLb0bTZqETkiAhM9Iw0y3An2Bg=
