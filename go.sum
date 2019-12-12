@@ -1,0 +1,4 @@
+github.com/NanXiao/queue v0.0.0-20160401053452-29cd80b506cb h1:Z1XP/ag3NcJ7NgTmeNVVAVOt33yMNJdsHhrP0Qb0Y0g=
+github.com/NanXiao/queue v0.0.0-20160401053452-29cd80b506cb/go.mod h1:q5aXvlDqQoh1lpCB5YsFl2kq0BFKi2Q4Rj6yCpCiZ+M=
+github.com/NanXiao/stack v0.0.0-20160401052844-bfb214dbdb38 h1:Df+qlDLjvXZJK+9t14i+/e0UCWZogVkxg6we7oR0yc0=
+github.com/NanXiao/stack v0.0.0-20160401052844-bfb214dbdb38/go.mod h1:AkU/5k8c8qukptSXnUmK+zZuK7X7S7nXbHkjqkP8YBE=
